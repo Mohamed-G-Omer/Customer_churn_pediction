@@ -132,7 +132,3 @@ Customers Churn/
 4. Open `customerChurn.ipynb` and run all cells (`Kernel > Restart & Run All`)
 
 ---
-
-## Author
-
-Group 8 — HAN University of Applied Sciences, Data Science Semester 1
