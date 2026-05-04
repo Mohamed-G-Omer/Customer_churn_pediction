@@ -141,7 +141,7 @@ cd Customer_churn_pediction
 pip install pandas numpy scikit-learn matplotlib seaborn jupyter
 
 # Launch
-jupyter notebook customerChurn.ipynb
+Jupyter Notebook customerChurn.ipynb
 ```
 
 Then hit **Kernel → Restart & Run All** to reproduce every result.
@@ -155,8 +155,6 @@ Then hit **Kernel → Restart & Run All** to reproduce every result.
 - **Recall over accuracy** — in churn problems, catching a churner matters more than overall accuracy. The 93% recall reflects that priority
 
 ---
-
-## Author
 
 **Mohamed Gamal Omer**
 MSc Applied Data Science · HAN University of Applied Sciences
