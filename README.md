@@ -1,7 +1,7 @@
 <h1 align="center">🔮 Customer Churn Prediction</h1>
 
 <p align="center">
-  <b>A from-scratch Logistic Regression model that predicts which customers are about to leave — so account managers can intervene before it's too late.</b>
+  <b>A Logistic Regression model that predicts which customers are about to leave — so account managers can intervene before it's too late.</b>
 </p>
 
 <p align="center">
